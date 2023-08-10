@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[The test execution is done for Test class]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-18T13:16:41 IST" name="Default suite" finished-at="2023-07-18T13:18:01 IST" duration-ms="79759">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T13:16:41 IST" name="Default test" finished-at="2023-07-18T13:18:01 IST" duration-ms="79759">
+      <class name="Test.TestClass">
+        <test-method is-config="true" signature="suiteopen()[pri:0, instance:Test.TestClass@459e9125]" started-at="2023-07-18T13:16:41 IST" name="suiteopen" finished-at="2023-07-18T13:16:41 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteopen -->
+        <test-method is-config="true" signature="testexecutionon()[pri:0, instance:Test.TestClass@459e9125]" started-at="2023-07-18T13:16:41 IST" name="testexecutionon" finished-at="2023-07-18T13:16:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testexecutionon -->
+        <test-method is-config="true" signature="openbrowserwindow()[pri:0, instance:Test.TestClass@459e9125]" started-at="2023-07-18T13:16:41 IST" name="openbrowserwindow" finished-at="2023-07-18T13:16:45 IST" duration-ms="3973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowserwindow -->
+        <test-method signature="execution()[pri:0, instance:Test.TestClass@459e9125]" started-at="2023-07-18T13:16:45 IST" name="execution" finished-at="2023-07-18T13:18:01 IST" duration-ms="75762" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The test execution is done for Test class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- execution -->
+        <test-method is-config="true" signature="closebrowserwindow()[pri:0, instance:Test.TestClass@459e9125]" started-at="2023-07-18T13:18:01 IST" name="closebrowserwindow" finished-at="2023-07-18T13:18:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowserwindow -->
+        <test-method is-config="true" signature="testexecutionoff()[pri:0, instance:Test.TestClass@459e9125]" started-at="2023-07-18T13:18:01 IST" name="testexecutionoff" finished-at="2023-07-18T13:18:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testexecutionoff -->
+        <test-method is-config="true" signature="closeopen()[pri:0, instance:Test.TestClass@459e9125]" started-at="2023-07-18T13:18:01 IST" name="closeopen" finished-at="2023-07-18T13:18:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeopen -->
+      </class> <!-- Test.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
